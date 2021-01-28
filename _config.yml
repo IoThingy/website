@@ -1,4 +1,4 @@
-title: IoThingy
+title: Your awesome title
 lang: en
 description: >-
   Core library for writing your own IoThingies by implementing your custom
@@ -6,12 +6,22 @@ description: >-
   send metrics of each peripheral and/or receive commands to change state.
 
 remote_theme: rundocs/jekyll-rtd-theme
+repository: dirkengels/iothingy-website
+
+
+## local method ##
+# theme: jekyll-rtd-theme
+# debug:
+#   compress: false
+#   dist: true
+#   shortcodes: true
+
+## remote method ##
 
 readme_index:
   with_frontmatter: true
 
 exclude:
-  - Makefile
   - Gemfile
   - Gemfile.lock
 
