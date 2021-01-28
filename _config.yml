@@ -1,0 +1,21 @@
+title: IoThingy
+lang: en
+description: >-
+  Core library for writing your own IoThingies by implementing your custom
+  peripherals and/or using existing ones from other projects. It uses MQTT to
+  send metrics of each peripheral and/or receive commands to change state.
+
+remote_theme: rundocs/jekyll-rtd-theme
+
+readme_index:
+  with_frontmatter: true
+
+exclude:
+  - Makefile
+  - Gemfile
+  - Gemfile.lock
+
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
