@@ -24,6 +24,7 @@ readme_index:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor
 
 plugins:
   - jemoji
