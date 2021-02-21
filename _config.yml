@@ -6,7 +6,7 @@ description: >-
   send metrics of each peripheral and/or receive commands to change state.
 
 remote_theme: rundocs/jekyll-rtd-theme
-repository: dirkengels/iothingy-website
+repository: iothingy/website
 url: "https://iothingy.io/"
 #baseurl: "/"
 
