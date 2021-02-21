@@ -8,7 +8,7 @@ description: >-
 remote_theme: rundocs/jekyll-rtd-theme
 repository: dirkengels/iothingy-website
 url: "https://iothingy.io/"
-baseurl: "/"
+#baseurl: "/"
 
 ## local method ##
 # theme: jekyll-rtd-theme
