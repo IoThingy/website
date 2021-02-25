@@ -1,3 +1,4 @@
+
 title: IoThingy
 lang: en
 description: >-
@@ -31,3 +32,17 @@ plugins:
   - jemoji
   - jekyll-avatar
   - jekyll-mentions
+
+
+# FROM: https://rundocs.io/configuring/defaults.html#configuration-from-github-pages
+lsi: false
+safe: true
+source: iothingy/website
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
