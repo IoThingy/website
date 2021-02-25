@@ -9,7 +9,7 @@ description: >-
 remote_theme: rundocs/jekyll-rtd-theme
 repository: iothingy/website
 url: "https://iothingy.io/"
-baseurl: "https://iothingy.io/"
+baseurl: /
 
 ## local method ##
 # theme: jekyll-rtd-theme
