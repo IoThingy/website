@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iothingy.io//pages/iothingy/website/sitemap.xml
